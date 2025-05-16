@@ -1,0 +1,10 @@
+# DATACAMP TOPICS COVERED:
+# - Plotting Data with Matplotlib
+# - Different Kinds of Plots
+# - Data merging basics
+# - Interacting with APIs to import data from the web
+# - Importing from Internet: Used API files
+
+# TOPICS COVERED IN OTHER PROJECTS
+# - Visualizing Geospatial Data: Have used geospatial data in other projects. Used heatmaps instead of maps in this project.
+# - SQL: Used SQL in project 8. For this, I used pandas filtering/grouping instead of queries
